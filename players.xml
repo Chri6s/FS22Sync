@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<players>
+    <player uniqueUserId="cK/WevaAEonbm+TLDdybzPkL2w54LZ6/kHqHkWFT++I=" timeLastConnected="2024/06/09 11:24">
+        <style filename="dataS/character/humans/player/player01.xml" beardConfigId="soulPatch_head01" beardConfigColor="6" faceConfigId="head01" faceConfigColor="1" glassesConfigId="aviator" glassesConfigColor="1" hairStyleConfigId="hair08" hairStyleConfigColor="6" mustacheConfigId="walrusXL_head01" mustacheConfigColor="6" onepieceConfigId="horschHero" onepieceConfigColor="1"/>
+    </player>
+    <player uniqueUserId="a+q66BDIXveFcm4bukWwQvH2DALi/nNwbA/srduEyv4=" timeLastConnected="2024/06/02 23:49">
+        <style filename="dataS/character/humans/player/player01.xml" beardConfigId="goatee_head02" beardConfigColor="13" bottomConfigId="cargo" bottomConfigColor="7" faceConfigId="head02" faceConfigColor="1" footwearConfigId="eltenArborist" footwearConfigColor="3" glassesConfigId="sports2" glassesConfigColor="1" hairStyleConfigId="hair07" hairStyleConfigColor="13" headgearConfigId="outback" headgearConfigColor="3" mustacheConfigId="upwardHandlebar_head02" mustacheConfigColor="13" topConfigId="topHoodie" topConfigColor="66"/>
+    </player>
+    <player uniqueUserId="sY8VU32wIeP0ARs1hkEj9tjOJhK1KsEx2d01jItJNfg=" timeLastConnected="2024/05/31 23:13">
+        <style filename="dataS/character/humans/player/player01.xml" bottomConfigId="jeans" bottomConfigColor="1" faceConfigId="head01" faceConfigColor="1" footwearConfigId="workBoots2" footwearConfigColor="1" hairStyleConfigId="hair02" hairStyleConfigColor="6" topConfigId="denimJacket" topConfigColor="1"/>
+    </player>
+</players>

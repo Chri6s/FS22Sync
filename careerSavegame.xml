@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>nigga</savegameName>
+        <creationDate>2024-05-29</creationDate>
+        <mapId>FS22_Felsbrunn22.SampleModMap</mapId>
+        <mapTitle>Felsbrunn 22</mapTitle>
+        <saveDateFormatted>2024-06-09</saveDateFormatted>
+        <saveDate>2024-06-09</saveDate>
+        <resetVehicles>false</resetVehicles>
+        <trafficEnabled>true</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <trailerFillLimit>false</trailerFillLimit>
+        <automaticMotorStartEnabled>true</automaticMotorStartEnabled>
+        <growthMode>1</growthMode>
+        <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
+        <fruitDestruction>false</fruitDestruction>
+        <plowingRequiredEnabled>true</plowingRequiredEnabled>
+        <stonesEnabled>false</stonesEnabled>
+        <weedsEnabled>false</weedsEnabled>
+        <limeRequired>true</limeRequired>
+        <isSnowEnabled>true</isSnowEnabled>
+        <fuelUsage>2</fuelUsage>
+        <helperBuyFuel>true</helperBuyFuel>
+        <helperBuySeeds>true</helperBuySeeds>
+        <helperBuyFertilizer>true</helperBuyFertilizer>
+        <helperSlurrySource>2</helperSlurrySource>
+        <helperManureSource>2</helperManureSource>
+        <densityMapRevision>3</densityMapRevision>
+        <terrainTextureRevision>1</terrainTextureRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>2</splitShapesRevision>
+        <tipCollisionRevision>2</tipCollisionRevision>
+        <placementCollisionRevision>2</placementCollisionRevision>
+        <navigationCollisionRevision>2</navigationCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainTextureRevision>1</mapTerrainTextureRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>2</mapSplitShapesRevision>
+        <mapTipCollisionRevision>2</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>2</mapPlacementCollisionRevision>
+        <mapNavigationCollisionRevision>4</mapNavigationCollisionRevision>
+        <difficulty>2</difficulty>
+        <economicDifficulty>2</economicDifficulty>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>0.500000</timeScale>
+        <autoSaveInterval>15.000000</autoSaveInterval>
+    </settings>
+    <guidedTour active="false" currentStepIndex="0" state=""/>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <statistics>
+        <money>806469</money>
+        <playTime>1469.605347</playTime>
+    </statistics>
+    <slotSystem slotUsage="1266"/>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <mod modName="FS22_Bio_Tank" title="Bio Tank" version="1.0.0.0" required="false" fileHash="0ccd1f07c41df73563f26175c383c0fb"/>
+    <mod modName="FS22_ConcreteRingPack" title="Concrete Ring Pack" version="1.0.0.0" required="false" fileHash="8cdefa499e1b30d92a395993ab1bda65"/>
+    <mod modName="FS22_mrhCowBarns" title="Lizard Cow Barns" version="1.3.0.0" required="false" fileHash="d9d3e3a907b94d54cb70185575ad18f3"/>
+    <mod modName="FS22_interactiveControl" title="Interactive Control" version="1.2.0.0" required="false" fileHash="f7295554e70c991b2e313ea05a0b2574"/>
+    <mod modName="FS22_DecorativeDetailsPack" title="Decorative Details Pack" version="1.2.0.0" required="false" fileHash="cc05f91717320ac279afb649f3e96b6f"/>
+    <mod modName="FS22_FlowersPack" title="Flower Pots Pack" version="1.1.0.0" required="false" fileHash="ff50d73f7cf9d9e832f951f6239eea49"/>
+    <mod modName="FS22_Silo_Pack" title="Silo And Containers" version="1.0.0.0" required="false" fileHash="ac9967e3702cfed37232d2fbc0e85b42"/>
+    <mod modName="FS22_BGA60kw" title="BGA 60kw" version="1.0.0.0" required="false" fileHash="697e1731d5e30083bbcd3ae9879ed654"/>
+    <mod modName="FS22_Compost" title="Compost" version="1.1.0.0" required="false" fileHash="2f006f600524924fd587d43d4b8e8821"/>
+    <mod modName="FS22_ConsumablePurchaseStation" title="Consumable Purchase Station" version="1.1.0.0" required="false" fileHash="d6407df3db82f184ad7411fb8275e005"/>
+    <mod modName="FS22_ObjectBaleStorage" title="Bale Storage" version="1.0.0.0" required="false" fileHash="8db5cc3fa4d253243e39833388303798"/>
+    <mod modName="FS22_GardenPlot" title="Garden Plot" version="1.0.0.0" required="false" fileHash="e43160589f7e7afbc33e87cdbb7585b7"/>
+    <mod modName="FS22_fieldSilo" title="Field Silo" version="1.0.0.0" required="false" fileHash="59ddd6265a7eb460d329f4c83da1f7d8"/>
+    <mod modName="FS22_farmFactory" title="Farm Factory" version="1.0.0.0" required="false" fileHash="0b7f8a3e923f37dbe6cabc780622751c"/>
+    <mod modName="FS22_CrudeOilProduction" title="Crude Oil Production" version="1.0.0.1" required="false" fileHash="f0f57c65a943861f3793a724844b5b2c"/>
+    <mod modName="FS22_FelsbrunnBuildingsPackage" title="Pack Of Buildings From Felsbrunn" version="1.0.0.0" required="false" fileHash="50dcc0617128456cc9c1456711e6dbce"/>
+    <mod modName="FS22_LizardApache" title="Lizard Apache Fleetside 1958" version="1.0.0.0" required="false" fileHash="3e66503dfea1729540ab9f61d71f9cee"/>
+    <mod modName="FS22_Lizard_Silos_With_Liquid_Storage" title="Lizard Silos With Liquid Storage" version="1.1.0.0" required="false" fileHash="fe466bb22f421685ae30a3f684577e8f"/>
+    <mod modName="FS22_Production_Pack" title="Productions Pack" version="1.2.0.0" required="false" fileHash="6b9539d4f08f0ec786ea677b853a34ae"/>
+    <mod modName="FS22_groundDivider" title="Kerbstone Set" version="1.0.2.0" required="false" fileHash="490fe4a59b8e30a3214ba3228957fdeb"/>
+    <mod modName="FS22_FactoryBottleFlavouredMilk" title="Flavored Milk Bottle Factory" version="1.0.0.0" required="false" fileHash="c438fc81d490d19f69505e209ab2ca2e"/>
+    <mod modName="FS22_PalletsProduction" title="Pallet Factory" version="1.0.0.0" required="false" fileHash="7623aff6fefdb236eab5067537994f4b"/>
+    <mod modName="FS22_TLX2022_Series" title="TLX 2022 Series" version="1.2.1.0" required="false" fileHash="6bdca34dc9acb095a451f952c035f0fe"/>
+    <mod modName="FS22_mrhAnimalBarns" title="Lizard Animal Barns" version="1.2.0.0" required="false" fileHash="ac2dc1f9a3c471baef4bbbe166644d4a"/>
+    <mod modName="FS22_SlurryTanks" title="Slurry Tanks" version="1.3.0.0" required="false" fileHash="2bb3e1fcd831aca57f869320ea078335"/>
+    <mod modName="FS22_BigDairyDecoPackage" title="Placeable Dairy Farm Package" version="2.0.0.0" required="false" fileHash="e291e01de57b084420e520a6e87db24b"/>
+    <mod modName="FS22_AdditionalDecorationPackage" title="Additional Decoration Package" version="1.0.0.1" required="false" fileHash="7efec1ff5880dc6746e1e911c4037a90"/>
+    <mod modName="FS22_RanchHouse" title="Ranch House" version="1.0.0.0" required="false" fileHash="8fb1d13eafdc5ecca6f52b44c8d3789a"/>
+    <mod modName="FS22_Felsbrunn22" title="Felsbrunn 22" version="2.2.0.0" required="true" fileHash="3ff216d49742704c1e05bf6980e78cb0"/>
+    <mod modName="FS22_RanchGate" title="Ranch Gate" version="1.0.0.0" required="false" fileHash="a03728eec2c198b41af82fe88a25bf58"/>
+    <mod modName="FS22_RanchGarage" title="Ranch Garage" version="1.0.0.0" required="false" fileHash="88806cf45dba87782e79d4d7f60ed43b"/>
+    <mod modName="FS22_FelsbrunnCowBarn" title="Cow Barn" version="1.0.0.0" required="false" fileHash="6c7183a99ca442cd55c3ea85b6668b32"/>
+    <mod modName="FS22_placeablePackVehicles" title="Placeable Vehicle Pack" version="1.0.0.0" required="false" fileHash="0b0fbe35410ea9553028ca1ba9265ee8"/>
+    <mod modName="FS22_EUfactories" title="EU Factories" version="1.0.0.0" required="false" fileHash="cd3beb5fe31cb3dc58773aff377de3e1"/>
+    <mod modName="FS22_mrhMultipurposeSheds" title="Lizard Multipurpose Sheds" version="1.1.0.0" required="false" fileHash="1c616ee1a6acfb40a82d0b6f18f80f07"/>
+    <mod modName="FS22_ModernMediumPigsty" title="Modern Pigsty" version="1.0.0.1" required="false" fileHash="b54a1e6731abee8f5bc2a9291df83909"/>
+    <mod modName="FS22_SmallSilo" title="Small Grain Silo" version="1.0.0.1" required="false" fileHash="682b29b38c05233763b823187652eb9a"/>
+    <mod modName="FS22_Guellekauf" title="Placable Slurry Trader" version="1.0.0.0" required="false" fileHash="77f9703ee549dfcead2100c491fa54f1"/>
+    <mod modName="FS22_firewoodProcessorProduction" title="Firewood Production" version="1.0.0.0" required="false" fileHash="45731e8ece6b71c8d1b98ebedcf2f22b"/>
+    <mod modName="FS22_Farmers_Market" title="Farmers Market" version="1.0.0.0" required="false" fileHash="0db71803607b738afee524395bc5a42c"/>
+    <mod modName="FS22_concretePanelBunkerSiloPack" title="Bunker Silo Set" version="1.0.0.0" required="false" fileHash="600fe6a48e56481acaf2fb3af53c778a"/>
+    <mod modName="FS22_flourproduction" title="Flour Production" version="1.0.0.0" required="false" fileHash="7fdcc9666d550d9c0c1588c0d74ef9e1"/>
+    <mod modName="FS22_Niederbayern_Hof_Pack" title="Lower Bavarian Farm Pack" version="1.0.0.2" required="false" fileHash="3e41933cb1dec844a5fbede949e3cf13"/>
+    <mod modName="FS22_FieldShedPackage" title="Field Shed Package" version="1.0.1.1" required="false" fileHash="044752fdf6ea513f5796a7e1afa56c2a"/>
+    <mod modName="FS22_additionalGameSettings" title="Additional Game Settings" version="1.2.0.1" required="false" fileHash="d0861b54bb95fd567726408d4806e913"/>
+    <mod modName="FS22_bavarianBarns" title="Bavarian Barns" version="1.0.0.0" required="false" fileHash="ac3d4c8bff158d77d78b67f4176e18f4"/>
+    <mod modName="FS22_Sawmill_HM" title="Sawmill" version="1.0.0.0" required="false" fileHash="d1a13837417edb4ea27c67faeb982cb3"/>
+</careerSavegame>
