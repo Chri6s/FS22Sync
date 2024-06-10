@@ -1,17 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <environment>
-    <dayTime>481.022186</dayTime>
-    <currentDay>28</currentDay>
-    <currentMonotonicDay>34</currentMonotonicDay>
-    <realHourTimer>1755412</realHourTimer>
+    <dayTime>1254.900513</dayTime>
+    <currentDay>29</currentDay>
+    <currentMonotonicDay>35</currentMonotonicDay>
+    <realHourTimer>348655</realHourTimer>
     <daysPerPeriod>1</daysPerPeriod>
-    <weather timeSinceLastRain="961">
+    <weather timeSinceLastRain="3174">
         <forecast>
-            <instance durationLeft="4.949630" typeName="SUN" variationIndex="1" duration="9.000000" season="1"/>
-            <instance typeName="SUN" variationIndex="1" duration="6.000000" season="1"/>
-            <instance typeName="CLOUDY" variationIndex="4" duration="10.000000" season="1"/>
-            <instance typeName="SUN" variationIndex="4" duration="10.000000" season="1"/>
-            <instance typeName="CLOUDY" variationIndex="1" duration="8.000000" season="1"/>
+            <instance durationLeft="2.034992" typeName="CLOUDY" variationIndex="1" duration="8.000000" season="1"/>
             <instance typeName="CLOUDY" variationIndex="2" duration="9.000000" season="1"/>
             <instance typeName="CLOUDY" variationIndex="2" duration="9.000000" season="1"/>
             <instance typeName="CLOUDY" variationIndex="3" duration="5.000000" season="1"/>
@@ -40,8 +36,11 @@
             <instance typeName="SNOW" variationIndex="1" duration="4.000000" season="3"/>
             <instance typeName="SNOW" variationIndex="2" duration="4.000000" season="3"/>
             <instance typeName="CLOUDY" variationIndex="1" duration="7.000000" season="0"/>
+            <instance typeName="CLOUDY" variationIndex="3" duration="6.000000" season="0"/>
+            <instance typeName="CLOUDY" variationIndex="2" duration="5.000000" season="0"/>
+            <instance typeName="CLOUDY" variationIndex="3" duration="8.000000" season="0"/>
         </forecast>
-        <fog currentMieScale="1.000000" lastMieScale="1.000000" targetMieScale="1.000000" alpha="0.004284" duration="14400000.000000" nightFactor="0.250000" dayFactor="-0.500000"/>
+        <fog currentMieScale="1.000000" lastMieScale="12.875000" targetMieScale="1.000000" alpha="1.000000" duration="14400000.000000" nightFactor="0.250000" dayFactor="0.250000"/>
         <snow height="0.000000"/>
     </weather>
     <snow physicalHeight="0.000000" height="0.000000"/>

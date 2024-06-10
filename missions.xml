@@ -1,6 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <missions>
-    <mission type="fertilize" reward="3083" status="0" success="false">
-        <field id="11" sprayFactor="0.500000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="545.453979" growthState="3" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="SORGHUM"/>
+    <mission type="harvest" reward="2602" status="0" success="false">
+        <field id="27" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="3" vehicleUseCost="451.054504" growthState="9" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="CANOLA"/>
+        <harvest sellPointPlaceableId="1" unloadingStationIndex="1" expectedLiters="19620.871094" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="3368" status="0" success="false">
+        <field id="23" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="583.804016" growthState="8" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="WHEAT"/>
+        <harvest sellPointPlaceableId="35" unloadingStationIndex="1" expectedLiters="38968.917969" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="1837" status="0" success="false">
+        <field id="33" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="3" vehicleUseCost="318.473999" growthState="9" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="CANOLA"/>
+        <harvest sellPointPlaceableId="1" unloadingStationIndex="1" expectedLiters="13853.618164" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="1117" status="0" success="false">
+        <field id="25" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="4" vehicleUseCost="193.758499" growthState="9" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="CANOLA"/>
+        <harvest sellPointPlaceableId="1" unloadingStationIndex="1" expectedLiters="8428.494141" depositedLiters="0.000000"/>
     </mission>
 </missions>
